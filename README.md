@@ -1,0 +1,2 @@
+# Wireless-Router-and-Client-configuration-Github
+ This is a self learning project in Cisco Packet Tracer where devices are connected to a wireless router. Specifically a PC is connected to a wireless router via ethernet port and a Laptop is connnected through using wireless adaptor. After that the router has been configured for the local devices and DHCP protocol has also been used. Additionally all the connections have been checked for connectivity assurance.
